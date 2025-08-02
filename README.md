@@ -59,6 +59,24 @@ Each directory is designed to be self-contained and independently testable.
 
 ---
 
+ℹ️ About
+
+IonTrail is built to solve one critical challenge in rocketry and robotics: reliable long-distance telemetry in environments where traditional wireless systems like Wi-Fi or Bluetooth fail.
+
+By leveraging LoRa (Long Range Radio) for its communication backbone and GPS for precise location tracking, IonTrail is designed to:
+
+  -Survive high-speed, high-vibration conditions (e.g., during rocket flight).
+
+  -Operate in remote areas without cellular or internet coverage.
+
+  -Provide real-time position feedback for manual control or post-flight analysis.
+
+This project started as a subsystem for the Aphelion Project and is now evolving into a general-purpose telemetry module for makers, students, and research teams working on anything that moves.
+
+Whether you’re launching a rocket, navigating a rover across challenging terrain, or just experimenting with LoRa and GPS for learning purposes — IonTrail gives you a robust, extensible, and open telemetry system to build upon.
+
+---
+
 ## 🤝 Contributing
 
 Contributions, feedback, and ideas are welcome! Please open an issue or pull request. For significant changes, consider discussing via an issue first.
